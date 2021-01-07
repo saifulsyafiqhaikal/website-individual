@@ -1,0 +1,60 @@
+a:link, a:visited
+	{
+		background-color: chocolate;
+		color: whitesmoke;
+		padding: 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 10px;
+		font-family: 'Yeon Sung', cursive;
+		font-size: 25px;
+	}
+
+a:hover
+	{
+		background-color: lightblue;
+		color: #483D8B;
+	}
+
+h1
+	{
+		font-family: 'Yeon Sung', cursive;
+		color: black;
+		font-size: 60px;
+		border: solid;
+		border-radius: 50px;
+		border-color: pink;
+	}
+
+h2
+	{
+		font-family: 'Yeon Sung', cursive;
+		color: pink;
+		font-size: 50px;
+	}
+
+h3
+	{
+		font-family: 'Yeon Sung', cursive;
+		font-size: 40px;
+	}
+
+h4
+	{
+		font-family: 'Yeon Sung', cursive;
+		font-size: 35px;
+	}
+
+p
+	{
+		background-color: #FFE4C4;
+		text-align: center;
+		color: black;
+		padding: 15px;
+		font-family: 'Yeon Sung', cursive;
+		font-size: 20px;
+		border: solid;
+		border-radius: 50px;
+		border-color: black;
+	}
